@@ -33,5 +33,5 @@ commands:
         !!! hint
 
             To calculate the percentage use `left/total`.
-
+---
 {% include 'advanced/data_types/commands-template.jinja2' %}
